@@ -3,3 +3,5 @@
 __pycache__
 .vscode
 .sonarlint
+django_polls.egg-info
+dist
