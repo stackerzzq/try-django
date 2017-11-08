@@ -6,4 +6,4 @@ install:
   - pip install Django
 # command to run tests
 script:
-  - python manage.py test polls
+  - python manage.py test polls -v 3
